@@ -4,5 +4,5 @@
 #  Check the README.md file for the sample output
 
 print ("Hello World!")
-print ("This is how multiple print statements are joined. Use end=""")
+print ("This is how multiple print statements are joined. Use end="")
 
